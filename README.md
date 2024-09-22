@@ -21,8 +21,9 @@ Carlos Andrés Del Rio Trocha<br>Soy un estudiante dedicado al desarrollo de sof
   <a href="https://nodejs.org" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://spring.io/" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  
 </p>
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cdelriot1121&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
