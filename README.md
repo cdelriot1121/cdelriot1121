@@ -2,10 +2,10 @@
 Carlos Andrés Del Rio Trocha<br>Soy un estudiante dedicado al desarrollo de software con un enfoque particular en mejorar mis habilidades técnicas y aprender constantemente nuevas tecnologías. Actualmente, estoy avanzando en mis estudios relacionados con diversas áreas de la programación, desde el desarrollo web hasta la configuración de sistemas y creación de software fiable, seguro y mantenido. Me gusta enfrentarme a nuevos desafíos y también proyectos que me permitan aplicar mis conocimientos que actualmente tengo.<br><br>Áreas de Interés<br><br>° Desarrollo de aplicaciones web<br>° Configuración de sistemas y creacion de algoritmos<br>° Aprendizaje constante de nuevas tecnologías<br>° Resolución de problemas a través del código, algoritmo y lógica
 
 
-## 🌐 Socials:
+# 🌐 Social Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/carlodelrio1121) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cdelrioch11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/carliho1121) 
 
-# 💻 Tech Stack:
+# 💻 Sets of tech :
 <p align="left"> 
   <a href="https://www.cprogramming.com/" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" text-decoration="none" target="_blank"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -25,10 +25,10 @@ Carlos Andrés Del Rio Trocha<br>Soy un estudiante dedicado al desarrollo de sof
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cdelriot1121&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cdelriot1121&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cdelriot1121&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+# 🔝 Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cdelriot1121&limit=5&theme=merko&combine_all_yearly_contributions=true)
