@@ -1,4 +1,4 @@
-# 💫 About Me
+# 🙌 ACERCA DE MI
 Mi nombre es Carlos Andrés Del Rio Trocha<br>Soy un estudiante dedicado al desarrollo de software con un enfoque particular en mejorar mis habilidades técnicas y aprender constantemente nuevas tecnologías. Actualmente, estoy avanzando en mis estudios relacionados con diversas áreas de la programación, desde el desarrollo web hasta la configuración de sistemas y creación de software fiable, seguro y mantenido. Me gusta enfrentarme a nuevos desafíos y también proyectos que me permitan aplicar mis conocimientos que actualmente tengo.<br><br>Áreas de Interés<br><br>° Desarrollo de aplicaciones web<br>° Configuración de sistemas y creacion de algoritmos<br>° Aprendizaje constante de nuevas tecnologías<br>° Resolución de problemas a través del código, algoritmo y lógica
 
 
@@ -26,10 +26,11 @@ Mi nombre es Carlos Andrés Del Rio Trocha<br>Soy un estudiante dedicado al desa
 
 
 
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=cdelriot1121&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cdelriot1121&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cdelriot1121&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cdelriot1121&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cdelriot1121&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cdelriot1121&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🔝 Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=cdelriot1121&limit=5&theme=merko&combine_all_yearly_contributions=true)
+---
+[![](https://visitcount.itsvg.in/api?id=cdelriot1121&icon=0&color=0)](https://visitcount.itsvg.in)
+
