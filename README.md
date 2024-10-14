@@ -10,7 +10,13 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
 
 ## 🌐 Redes Sociales
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/carlodelrio1121) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cdelrioch11) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/carliho1121) 
+<p align="left">
+<a href="https://twitter.com/https://x.com/carliho1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/carliho1121" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/carlos-andres-drt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carlos-andres-drt" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/carlodelrio1121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/carlodelrio1121/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/cdelrioch11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cdelrioch11/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@carlih1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@carlih1121" height="30" width="40" /></a>
+</p><br>
 
 
 ## 💻 Tecnologias Aprendidas
@@ -24,7 +30,9 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
   <a href="https://www.python.org" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-  #### | Still in study | </h3>
+  ### | Still in study | </h3>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
