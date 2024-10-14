@@ -6,7 +6,7 @@
 ## 🙌 Acerca de mi </h3>
 Soy un estudiante dedicado al desarrollo de software con un enfoque particular en mejorar mis habilidades técnicas y aprender constantemente nuevas tecnologías. Actualmente, estoy avanzando en mis estudios relacionados con diversas áreas de la programación, desde el desarrollo web hasta la configuración de sistemas y creación de software fiable, seguro y mantenido. Me gusta enfrentarme a nuevos desafíos y también proyectos que me permitan aplicar mis conocimientos que actualmente tengo.<br><br><strong>Áreas de Interés</strong><br>° Desarrollo de aplicaciones web<br>° Configuración de sistemas y creacion de algoritmos<br>° Aprendizaje constante de nuevas tecnologías<br>° Resolución de problemas a través del código, algoritmo y lógica
 
-<img align="center" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyanNjMjh5a3EwNGhlOThseXh0NXFnbGt2cmJjOHNlMXUzOXd3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
+<img align="center" alt="Coding" width="1100" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyanNjMjh5a3EwNGhlOThseXh0NXFnbGt2cmJjOHNlMXUzOXd3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
 
 ## 🌐 Redes Sociales
 
