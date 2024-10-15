@@ -1,15 +1,20 @@
-
+<div align="center">
+  
 # ¡Hola!👋, ¡Mi nombre es Carlos Andres!
+</div>
 
 ![MasterHead](https://coding.blog/img/update-social-banner.png)
-
-## 🙌 Acerca de mi </h3>
+<div align="center">
+  
+## 🙌 Acerca de mi
+</div>
 Soy un estudiante dedicado al desarrollo de software con un enfoque particular en mejorar mis habilidades técnicas y aprender constantemente nuevas tecnologías. Actualmente, estoy avanzando en mis estudios relacionados con diversas áreas de la programación, desde el desarrollo web hasta la configuración de sistemas y creación de software fiable, seguro y mantenido.<br><br><strong>Áreas de Interés</strong><br>° Desarrollo de aplicaciones web<br>° Configuración de sistemas y creacion de algoritmos<br>° Aprendizaje constante de nuevas tecnologías<br>° Resolución de problemas a través del código, algoritmo y lógica
 
-<img align="center" alt="Coding" width="1100" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyanNjMjh5a3EwNGhlOThseXh0NXFnbGt2cmJjOHNlMXUzOXd3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
-
+<img align="center" alt="Coding" width="1200" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyanNjMjh5a3EwNGhlOThseXh0NXFnbGt2cmJjOHNlMXUzOXd3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
+<div align="center">
+  
 ## 🌐 Redes Sociales
-
+</div>
 <p align="left">
 <a href="https://x.com/carliho1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/carliho1121" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/carlos-andres-drt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carlos-andres-drt" height="30" width="40" /></a>
@@ -18,8 +23,10 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
 <a href="https://www.youtube.com/@carlih1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@carlih1121" height="30" width="40" /></a>
 </p><br>
 
-
+<div align="center">
+  
 ## 💻 Tecnologias Aprendidas
+</div>
 
 <p align="left"> 
   <a href="https://git-scm.com/" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -30,7 +37,7 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
   <a href="https://www.python.org" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-  ### | Still in study | </h3>
+  ### | Aun en estudio |
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" text-decoration="none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -41,9 +48,17 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
   <a href="https://www.w3schools.com/cpp/" text-decoration="none" target="_blank"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
-
+<div align="center">
+  
 ## 📊 Mis estadisticas en github:
+</div>
+<div align="center">
+
+  
 ![](https://github-readme-stats.vercel.app/api?username=cdelriot1121&theme=prussian&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cdelriot1121&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cdelriot1121&theme=prussian&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+![Carlos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cdelriot1121&bg_color=400000&color=ffffff&line=c00000&point=f9fafa&area=true&hide_border=true)
+</div>
 
