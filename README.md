@@ -65,7 +65,7 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
 
 <div align="left">
   
-![](https://github-readme-stats.vercel.app/api?username=cdelriot1121&theme=prussian&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cdelriot1121&theme=holi&hide_border=false&include_all_commits=false&count_private=true)<br/>
 </div>
 <div align="center">
 
@@ -74,7 +74,7 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
 
 <div align="right">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cdelriot1121&theme=prussian&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdelriot1121&layout=donut-vertical&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
