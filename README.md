@@ -62,23 +62,15 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
 ## 📊 Mis estadisticas en github:
 </div>
 
-
-<div align="left">
-  
-![](https://github-readme-stats.vercel.app/api?username=cdelriot1121&theme=holi&hide_border=false&include_all_commits=false&count_private=true)<br/>
-</div>
 <div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=cdelriot1121&theme=prussian&hide_border=false)<br/>
-</div>
-
-<div align="right">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdelriot1121&layout=donut-vertical&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+| Contribution Stats👌 | Tecnologias mas usadas 🚦 |
+| :-: | :-: |
+| ![](https://github-readme-stats.vercel.app/api?username=cdelriot1121&theme=holi&hide_border=false&include_all_commits=false&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdelriot1121&layout=donut-vertical&theme=holi)](https://github.com/anuraghazra/github-readme-stats)|
 </div>
 
 <div align="center">
   
-![Carlos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cdelriot1121&bg_color=400000&color=ffffff&line=c00000&point=f9fafa&area=true&hide_border=true)
+![Carlos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cdelriot1121&&bg_color=010e20&color=ffffff&line=599cfc&point=f9fafa&area=true&hide_border=true)
 </div>
 
