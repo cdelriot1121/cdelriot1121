@@ -3,8 +3,7 @@
 # ¡Hola!👋, ¡Mi nombre es Carlos Andres!
 </div>
 
-<img align="center" alt="Coding" width="1000" height="375" 
-  src="https://coding.blog/img/update-social-banner.png">
+![MasterHead](https://coding.blog/img/update-social-banner.png)
 <div align="center">
   
 ## 🙌 Acerca de mi
@@ -13,7 +12,7 @@
 Soy un estudiante dedicado al desarrollo de software con un enfoque particular en mejorar mis habilidades técnicas y aprender constantemente nuevas tecnologías. Actualmente, estoy avanzando en mis estudios relacionados con diversas áreas de la programación, desde el desarrollo web hasta la configuración de sistemas y creación de software fiable, seguro y mantenido.<br><br><strong>Áreas de Interés</strong><br>° Desarrollo de aplicaciones web<br>° Configuración de sistemas y creacion de algoritmos<br>° Aprendizaje constante de nuevas tecnologías<br>° Resolución de problemas a través del código, algoritmo y lógica.<br>
 </p>
 
-<img align="center" alt="Coding" width="1200" height="175" 
+<img align="center" alt="Coding" width="1200" height="175"  max-height="175" 
   src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyanNjMjh5a3EwNGhlOThseXh0NXFnbGt2cmJjOHNlMXUzOXd3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
   
 <div align="center">
