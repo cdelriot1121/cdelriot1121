@@ -29,22 +29,65 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
 </p><br>
 
 <div align="center">
-  
-## 💻 Tecnologias Aprendidas
+
+## 🛠️ Technologies Learned
+
+<table>
+  <tr>
+    <th>Basic Programming ✨</th>
+    <th>Still Studying 🧠</th>
+    <th>Other Fields 🎲</th>
+  </tr>
+  <tr>
+    <!-- Basic Programming -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+      <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+    </td>
+    <!-- Still Studying -->
+    <td align="center">
+      <table>
+        <tr>
+          <th>Frameworks/Libraries</th>
+          <th>Databases</th>
+          <th>Other Languages</th>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="Angular" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+            <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
+            <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+            <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
+          </td>
+          <td align="center">
+            <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+            <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+          </td>
+          <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Other Fields -->
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+      <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify" />
+      <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="Anaconda" />
+      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<div align="center">
-
-| Basic Programming ✨ | Still studying 🧠 | Other fields 🎲 |
-|:-:|:-:|:-:|
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />|<img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angularjs logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /> <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  /> <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />|
-
-</div>
-
-
-
-
-###
 
 
 <div align="center">
