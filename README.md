@@ -39,7 +39,7 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
     <th>Other Fields 🎲</th>
   </tr>
   <tr>
-    <!-- Basic Programming -->
+    <!-- programacion basica -->
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -48,7 +48,7 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
     </td>
-    <!-- Still Studying -->
+    <!-- parte de aun en estudio -->
     <td align="center">
       <table>
         <tr>
@@ -75,13 +75,15 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
         </tr>
       </table>
     </td>
-    <!-- Other Fields -->
+    <!-- tabla de otras herramientas -->
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
       <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify" />
       <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="Anaconda" />
       <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="40" alt="VBox" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="40" alt="Klinux" />
     </td>
   </tr>
 </table>
