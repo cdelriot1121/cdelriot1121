@@ -108,7 +108,7 @@ Soy un estudiante dedicado al desarrollo de software con un enfoque particular e
 
 | Streak Stats🔥 |
 |:-:|
-|![](https://github-readme-streak-stats.herokuapp.com/?user=cdelriot1121&theme=blue_navy&hide_border=false)|
+|[![GitHub Streak](https://streak-stats.demolab.com?user=cdelriot1121&theme=github-dark-blue&border_radius=6&background=80%2C000253%2C0529B9&border=000000)](https://git.io/streak-stats)|
 
 ![Carlos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cdelriot1121&&bg_color=010e20&color=ffffff&line=599cfc&point=f9fafa&area=true&hide_border=true)
 </div>
