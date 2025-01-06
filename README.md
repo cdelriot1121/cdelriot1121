@@ -9,15 +9,13 @@
 
 <div align="center">
   
-## 🙌 About Me
+## 🎯 Areas of Focus
 </div>
 <p>
-I am a dedicated software development student with a strong focus on improving my technical skills and continuously learning new technologies. Currently, I am expanding my knowledge across various programming areas, including web development, system configuration, and creating reliable, secure, and maintainable software.<br><br><strong>Areas of Interest:</strong><br>° Web application development<br>° System configuration and algorithm design<br>° Continuous learning of new technologies<br>° Problem-solving through coding, algorithms, and logic.
+° Web application development<br>
+° System configuration and algorithm design<br>
+° Problem-solving through coding, algorithms, and logic.
 </p>
-
-<img align="center" alt="Coding" width="1200" height="175" max-height="175" 
-  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyanNjMjh5a3EwNGhlOThseXh0NXFnbGt2cmJjOHNlMXUzOXd3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif">
-  
 <div align="center">
   
 ## 🌐 Social Links
