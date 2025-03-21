@@ -106,7 +106,18 @@
 |:-:|
 |[![GitHub Streak](https://streak-stats.demolab.com?user=cdelriot1121&theme=holi-theme&background=70%2C000032%2C000000)](https://git.io/streak-stats)|
 
+---
+
+|CodeWars Badges 🦅|
+|:-:|
+|![Carlos's CodeWars Badges](https://www.codewars.com/users/carlih1121/badges/large)|
+
+|Github Graph Activity 📈|
+|:-:|
 ![Carlos's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cdelriot1121&&bg_color=010e20&color=ffffff&line=599cfc&point=f9fafa&area=true&hide_border=true)
+
+
+
 </div>
 
 --- 
