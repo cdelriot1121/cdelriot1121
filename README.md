@@ -53,7 +53,8 @@
         <tr>
           <th>Frameworks & Libraries</th>
           <th>Databases</th>
-          <th>Other Languages</th>
+          <th>Other Languages and Documentation forms</th>
+          <th>Container and Deploy Tools</th>
         </tr>
         <tr>
           <td align="center">
@@ -70,6 +71,13 @@
           <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+            <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
+          </td>
+          <td>
+              <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+               <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+               <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
           </td>
         </tr>
       </table>
@@ -80,11 +88,16 @@
       <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="Anaconda" />
       <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="40" alt="VBox" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="40" alt="Kali Linux" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
     </td>
   </tr>
 </table>
+
+
 
 </div>
 
