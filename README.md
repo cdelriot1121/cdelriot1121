@@ -54,13 +54,13 @@
           <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Frameworks & Libraries</th>
           <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Databases</th>
           <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Other Languages </th>
-          <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Container and Deploy Tools</th>
+          <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Container and Deploy</th>
         </tr>
         <tr>
           <td align="center" style="border: 1px solid #ddd; padding: 8px;">
             <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="Angular" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-            <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
+            <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" /> <br>
             <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="Spring" />
             <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
             <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
@@ -77,8 +77,7 @@
           </td>
           <td style="border: 1px solid #ddd; padding: 8px;">
               <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-               <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-               <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+              <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
           </td>
         </tr>
@@ -89,7 +88,7 @@
       <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify" />
       <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="Anaconda" />
       <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" /> <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
       <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" height="40" alt="VBox" />
