@@ -33,14 +33,14 @@
 
 ## 🛠️ Technologies & Tools
 
-<table>
+<table style="width: 100%; max-width: 800px; border-collapse: collapse; margin: auto;">
   <tr>
-    <th>Programming Skills ✨</th>
-    <th>Learning & Growth 🧠</th>
-    <th>Other Tools 🎲</th>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Programming Skills ✨</th>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Learning & Growth 🧠</th>
+    <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Other Tools 🎲</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
@@ -48,32 +48,34 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
     </td>
-    <td align="center">
-      <table>
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">
+      <table style="width: 100%;">
         <tr>
-          <th>Frameworks & Libraries</th>
-          <th>Databases</th>
-          <th>Other Languages and Documentation forms</th>
-          <th>Container and Deploy Tools</th>
+          <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Frameworks & Libraries</th>
+          <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Databases</th>
+          <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Other Languages </th>
+          <th style="border: 1px solid #ddd; padding: 8px; background-color: #f2f2f2;">Container and Deploy Tools</th>
         </tr>
         <tr>
-          <td align="center">
+          <td align="center" style="border: 1px solid #ddd; padding: 8px;">
             <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="Angular" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
             <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
             <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="Spring" />
+            <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
             <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
           </td>
-          <td align="center">
+          <td align="center" style="border: 1px solid #ddd; padding: 8px;">
             <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
             <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+            <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
           </td>
-          <td align="center">
+          <td align="center" style="border: 1px solid #ddd; padding: 8px;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
             <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
           </td>
-          <td>
+          <td style="border: 1px solid #ddd; padding: 8px;">
               <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
                <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
                <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
@@ -82,7 +84,7 @@
         </tr>
       </table>
     </td>
-    <td align="center">
+    <td align="center" style="border: 1px solid #ddd; padding: 8px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
       <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify" />
       <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="Anaconda" />
@@ -96,9 +98,6 @@
     </td>
   </tr>
 </table>
-
-
-
 </div>
 
 <div align="center">
@@ -133,4 +132,4 @@
 
 </div>
 
---- 
+---
