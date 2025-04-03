@@ -7,17 +7,31 @@
 
 ![MasterHead](https://coding.blog/img/update-social-banner.png)
 
+
+
 <div align="center">
   
+---
+  
 ## 🎯 Areas of Focus
+</div>
+<div align= "center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=800&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Software+Developer;Web+Developer)](https://git.io/typing-svg)
+
 </div>
 <p>
 ° Web application development<br>
 ° System configuration and algorithm design<br>
 ° Problem-solving through coding, algorithms, and logic.
 </p>
+
+
 <div align="center">
-  
+
+  ---
+
+
 ## 🌐 Social Links
 </div>
 
@@ -30,6 +44,8 @@
 </p><br>
 
 <div align="center">
+  
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -127,6 +143,8 @@
 |:-:|
 ![Carlos's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cdelriot1121&&bg_color=010e20&color=ffffff&line=599cfc&point=f9fafa&area=true&hide_border=true)
 
+
+<img src="https://raw.githubusercontent.com/cdelriot1121/cdelriot1121/output/snake.svg" alt="Snake animation" />
 
 
 </div>
