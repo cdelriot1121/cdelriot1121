@@ -17,8 +17,6 @@
 </div>
 <div align= "center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=800&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Software+Developer;Web+Developer)](https://git.io/typing-svg)
-
 </div>
 <p>
 ° Web application development<br>
@@ -36,11 +34,9 @@
 </div>
 
 <p align="center">
-<a href="https://x.com/carliho1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/carliho1121" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/carlos-andres-drt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carlos-andres-drt" height="30" width="40" /></a>
 <a href="https://www.facebook.com/carlodelrio1121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/carlodelrio1121/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/cdelrioch11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cdelrioch11/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@carlih1121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@carlih1121" height="30" width="40" /></a>
 </p><br>
 
 <div align="center">
@@ -149,4 +145,13 @@
 
 </div>
 
----
+
+<div align="center">
+
+## Support me
+
+<a href="https://www.buymeacoffee.com/cdelriot1121" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="cdelriot1121" data-color="#FFDD00" data-emoji="♟️"  data-font="Poppins" data-text="Buy me  a Jaque Mate" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
+</div>
