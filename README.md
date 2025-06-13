@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:9b59b6&height=150&section=header&text=Carlos%20Andres&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:9b59b6&height=200&section=header&text=Carlos%20Andres&fontSize=60&fontColor=ffffff&animation=fadeIn" />
   
 # Full Stack Developer | Backend Specialist
 </div>
@@ -20,9 +20,9 @@
 
 </div>
 <p>
-° Web application development<br>
-° System configuration and algorithm design<br>
-° Problem-solving through coding, algorithms, and logic.
+- Web application development<br>
+- System configuration and algorithm design<br>
+- Problem-solving through coding, algorithms, and logic.
 </p>
 
 
@@ -54,69 +54,73 @@
   </tr>
   <tr>
     <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
       <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-      <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
       <br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
       <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" />
     </td>
     <td align="center" style="border: 1px solid #ddd; padding: 8px;">
       <!-- Backend Frameworks - Destacados con tamaño más grande -->
       <div style="margin-bottom: 15px;">
         <strong>Backend:</strong><br>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="45" alt="Express.js"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="45" alt="Spring Boot"/>
+        <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
+        <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
         <br>
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="45" alt="Django"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="45" alt="FastAPI"/>
+        <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo" />
+        <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" />
         <br>
-        <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+        <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
       </div>
       <div style="margin-bottom: 15px;">
         <strong>Frontend:</strong><br>
-        <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="Angular" />
-        <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+        <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo" />
+        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
       </div>
       <!-- Databases -->
       <div>
         <strong>Databases:</strong><br>
-        <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
         <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-        <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="40" alt="Redis"/>
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+        <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
       </div>
     </td>
     <td align="center" style="border: 1px solid #ddd; padding: 8px;">
       <!-- Containerization -->
       <div style="margin-bottom: 15px;">
         <strong>Containers:</strong><br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="45" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="45" alt="Kubernetes"/>
+        <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+        <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" />
       </div>
       <!-- Cloud & Deployment -->
       <div style="margin-bottom: 15px;">
         <strong>Cloud & Deployment:</strong><br>
-        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" height="40" alt="Azure"/>
+        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
+        <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
+        <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
         <br>
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" height="40" alt="Netlify"/>
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" height="40" alt="Render"/>
-        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" height="40" alt="Railway"/>
+        <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" />
+        <img src="https://skillicons.dev/icons?i=render" height="40" alt="render logo" />
+        <img src="https://skillicons.dev/icons?i=railway" height="40" alt="railway logo" />
       </div>
       <!-- Other Tools -->
       <div>
         <strong>Development Tools:</strong><br>
-        <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-        <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="Anaconda" />
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+        <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
+        <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
         <br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+        <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo" />
+        <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+        <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
+        <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
       </div>
     </td>
   </tr>
