@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:9b59b6&height=225&section=header&text=Carlos%20Del%20rio&fontSize=65&fontAlignY=40&desc=Backend%20Developer%20and%20DevOps&descAlign=80&descAlignY=55&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000357&text=Carlos%20Del%20rio&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=40&animation=scaleIn&desc=Backend%20Developer%20and%20DevOps" />
   
 
 </div>
@@ -76,11 +76,13 @@
         <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
       </div>
       <div style="margin-bottom: 15px;">
+        <br>
         <strong>Frontend:</strong><br>
         <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo" />
         <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
         <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
       </div>
+      <br>
       <!-- Databases -->
       <div>
         <strong>Databases:</strong><br>
@@ -90,24 +92,23 @@
         <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
       </div>
     </td>
-    <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-      <!-- Containerization -->
-      <div style="margin-bottom: 15px;">
+    <td align="center" style="border: 1px solid #ddd; padding: 3px;">
+      <div style="margin-bottom: 5px;">
         <strong>Containers:</strong><br>
         <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
         <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" />
       </div>
+      <br>
       <!-- Cloud & Deployment -->
-      <div style="margin-bottom: 15px;">
+      <div style="margin-bottom: 15px; " aling="center";>
         <strong>Cloud & Deployment:</strong><br>
         <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
         <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
         <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
         <br>
         <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo" />
-        <img src="https://skillicons.dev/icons?i=render" height="40" alt="render logo" />
-        <img src="https://skillicons.dev/icons?i=railway" height="40" alt="railway logo" />
       </div>
+      <br>
       <!-- Other Tools -->
       <div>
         <strong>Development Tools:</strong><br>
