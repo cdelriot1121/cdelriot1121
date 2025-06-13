@@ -1,12 +1,10 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:9b59b6&height=200&section=header&text=Carlos%20Andres&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:9b59b6&height=250&section=header&text=Carlos%20Del%20rio&fontSize=60&fontColor=ffffff&animation=fadeIn" />
   
-# Full Stack Developer | Backend Specialist
-</div>
 
-![MasterHead](https://coding.blog/img/update-social-banner.png)
+</div>
 
 
 
