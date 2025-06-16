@@ -1,4 +1,4 @@
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000357&text=Carlos%20Del%20rio&section=header&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=40&animation=scaleIn&desc=Backend%20Developer%20and%20DevOps" />
@@ -9,27 +9,25 @@
 
 
 <div align="center">
-  
+
 ---
-  
+
 ## 🎯 Areas of Focus
-</div>
-<div align= "center">
 
 </div>
-<p>
-- Web application development<br>
-- System configuration and algorithm design<br>
-- Problem-solving through coding, algorithms, and logic.
-</p>
+
+- Web application development
+- System configuration and algorithm design
+- Problem-solving through coding, algorithms, and logic
+- Backend code management and cloud infrastructure deployment
+- Continuously learning and improving my technology stack
+
 
 
 <div align="center">
 
-  ---
-
-
 ## 🌐 Social Links
+
 </div>
 
 <p align="center">
@@ -40,7 +38,7 @@
 
 <div align="center">
   
----
+
 
 ## 🛠️ Technologies & Tools
 
@@ -138,9 +136,10 @@
 | ![](https://github-readme-stats.vercel.app/api?username=cdelriot1121&theme=holi&hide_border=false&include_all_commits=false&count_private=true)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdelriot1121&layout=donut-vertical&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+
+
 <div align="center">
 
----
 
 |CodeWars Badges 🦅|
 |:-:|
