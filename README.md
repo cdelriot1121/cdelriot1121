@@ -114,7 +114,6 @@
         <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
         <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
         <br>
-        <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo" />
         <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
         <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
         <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
