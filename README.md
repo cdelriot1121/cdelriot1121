@@ -31,9 +31,14 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/carlos-andres-drt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carlos-andres-drt" height="30" width="40" /></a>
-<a href="https://www.facebook.com/carlodelrio1121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/carlodelrio1121/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/cdelrioch11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cdelrioch11/" height="30" width="40" /></a>
+  
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+
+
+  
 </p><br>
 
 <div align="center">
@@ -117,6 +122,7 @@
         <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
         <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
         <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
       </div>
     </td>
   </tr>
