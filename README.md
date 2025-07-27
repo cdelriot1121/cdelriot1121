@@ -59,7 +59,7 @@
     <td align="center" style="border: 1px solid #ddd; padding: 8px;">
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" />
+      <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
       <br>
       <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
       <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
@@ -159,6 +159,8 @@
 </div>
 
 
+
+
 <div align="center">
 
 ## Support me
@@ -166,3 +168,4 @@
 <a href="https://www.buymeacoffee.com/cdelriot1121" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
+
