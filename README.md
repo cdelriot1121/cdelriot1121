@@ -45,8 +45,6 @@
 
 <div align="center">
   
-
-
 ## 🛠️ Technologies & Tools
 
 <table style="width: 100%; max-width: 800px; border-collapse: collapse; margin: auto;">
@@ -69,7 +67,7 @@
       <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo" />
     </td>
     <td align="center" style="border: 1px solid #ddd; padding: 8px;">
-      <!-- Backend Frameworks - Destacados con tamaño más grande -->
+      <!-- Backend Frameworks -->
       <div style="margin-bottom: 15px;">
         <strong>Backend:</strong><br>
         <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
@@ -78,7 +76,8 @@
         <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo" />
         <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" />
         <br>
-        <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo" />
+        <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+        <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
       </div>
       <div style="margin-bottom: 15px;">
         <br>
@@ -124,12 +123,13 @@
         <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
         <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
         <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
       </div>
     </td>
   </tr>
 </table>
+
 </div>
+
 
 <div align="center">
   
@@ -168,4 +168,3 @@
 <a href="https://www.buymeacoffee.com/cdelriot1121" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
-
