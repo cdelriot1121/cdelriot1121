@@ -69,7 +69,7 @@
     <td align="center" style="border: 1px solid #ddd; padding: 8px;">
       <!-- Backend Frameworks -->
       <div style="margin-bottom: 15px;">
-        <strong>Backend:</strong><br>
+        <strong>Backend</strong><br>
         <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
         <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
         <br>
@@ -81,7 +81,7 @@
       </div>
       <div style="margin-bottom: 15px;">
         <br>
-        <strong>Frontend:</strong><br>
+        <strong>Frontend</strong><br>
         <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo" />
         <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
         <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
@@ -89,7 +89,7 @@
       <br>
       <!-- Databases -->
       <div>
-        <strong>Databases:</strong><br>
+        <strong>Databases</strong><br>
         <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
         <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
         <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
@@ -98,14 +98,14 @@
     </td>
     <td align="center" style="border: 1px solid #ddd; padding: 3px;">
       <div style="margin-bottom: 5px;">
-        <strong>Containers:</strong><br>
+        <strong>Containers</strong><br>
         <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
         <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" />
       </div>
       <br>
       <!-- Cloud & Deployment -->
       <div style="margin-bottom: 15px; " aling="center";>
-        <strong>Cloud & Deployment:</strong><br>
+        <strong>Cloud & Deployment</strong><br>
         <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
         <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo" />
         <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
@@ -115,7 +115,7 @@
       <br>
       <!-- Other Tools -->
       <div>
-        <strong>Development Tools:</strong><br>
+        <strong>Development Tools</strong><br>
         <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
         <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
         <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
