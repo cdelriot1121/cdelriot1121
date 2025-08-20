@@ -21,7 +21,7 @@
 - Problem-solving through coding, algorithms, and logic
 - Backend code management and cloud infrastructure deployment
 - Continuously learning and improving my technology stack
-- Likes SCRUM developer organization
+- Learning and following agile development methodologies
 
 
 <div align="center">
