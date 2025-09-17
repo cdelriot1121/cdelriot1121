@@ -123,6 +123,8 @@
         <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
         <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
         <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
+        <br>
+        <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="powershell logo" />
       </div>
     </td>
   </tr>
