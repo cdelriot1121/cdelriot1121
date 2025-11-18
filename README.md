@@ -57,7 +57,7 @@
     <td align="center" style="border: 1px solid #ddd; padding: 8px;">
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-      <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+      <!-- <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  /> -->
       <br>
       <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
       <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
@@ -77,7 +77,7 @@
         <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" />
         <br>
         <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
-        <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
+        <!-- <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  /> -->
       </div>
       <div style="margin-bottom: 15px;">
         <br>
@@ -100,7 +100,7 @@
       <div style="margin-bottom: 5px;">
         <strong>Containers</strong><br>
         <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
-        <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" />
+        <!-- <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo" /> -->
       </div>
       <br>
       <!-- Cloud & Deployment -->
@@ -123,8 +123,12 @@
         <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
         <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
         <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
-        <br>
-        <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="powershell logo" />
+        <!-- <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="powershell logo" /> -->
+        <div style="">
+        <img src="image.png" height="32" alt="powershell logo" /> 
+        <img src="image_powerappsIcon.png" height="30" alt="powershell logo" /> 
+        <img src="image_powerAutomateIcon.png" height="32" alt="powershell logo" /> 
+        </div>
       </div>
     </td>
   </tr>
